@@ -17,4 +17,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Wilder Rincon** - [daviddlhz](https://github.com/wildsrincon)
+* **Wilder Rincon** - [wildsrincon](https://github.com/wildsrincon)
