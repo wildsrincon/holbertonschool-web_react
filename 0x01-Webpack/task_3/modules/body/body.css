@@ -1,5 +1,11 @@
+#click-here {
+  max-width: 30%;
+}
+
 #count {
-  display: inline-block;
+  display: inline;
+  padding: 0 10px 0 0;
   font-weight: bold;
-  margin-left: .4rem;
+  min-width: 20%;
+  max-width: 60%;
 }

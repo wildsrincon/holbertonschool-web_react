@@ -1,52 +1,39 @@
-const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
+const path = require('path');
 
 module.exports = {
   mode: 'development',
+  devtool: 'inline-source-map',
   entry: {
-    all: ["./modules/header/header.js", "./modules/body/body.js", "./modules/footer/footer.js"],
-  },
-  performance: {
-    maxAssetSize: 1000000,
-    maxEntrypointSize: 1000000,
+    header: './modules/header/header.js',
+    body: './modules/body/body.js',
+    footer: './modules/footer/footer.js',
   },
   output: {
-    filename: "[name].bundle.js",
-    path: path.resolve(__dirname, "public")
+    filename: '[name].bundle.js',
+    path: path.resolve(__dirname, 'public'),
   },
-  devtool: 'inline-source-map',
+  plugins: [new CleanWebpackPlugin(), new HtmlWebpackPlugin()],
   devServer: {
-    contentBase: path.join(__dirname, './public'),
+    static: path.join(__dirname, './public'),
     compress: true,
     port: 8564,
   },
-  plugins: [
-    new CleanWebpackPlugin(),
-    new HtmlWebpackPlugin(),
-  ],
+  optimization: {
+    runtimeChunk: 'all'
+  },
   module: {
     rules: [
       {
         test: /\.css$/i,
-        use: [
-          'style-loader',
-          'css-loader'
-        ]
+        use: ['style-loader', 'css-loader']
       },
       {
-        test: /\.(png|jpe?g|gif)$/i,
-        use: [
-          'file-loader',
-          {
-            loader: 'image-webpack-loader',
-            options: {
-              bypassOnDebug: true,
-              disable: true,
-            },
-          },
-        ],
+        test: /\.(?:ico|gif|png|jpg|jpeg)$/i,
+        type: 'asset/resource',
       },
     ]
-  },
+  }
 };
+
