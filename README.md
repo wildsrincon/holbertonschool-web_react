@@ -1,5 +1,5 @@
 # holbertonschool-web_react
-<h1><img src="https://img.icons8.com/ios-filled/60/000000/machine-learning.png"/> Specializations - Web Stack programming ― Backend</h1>
+<h1><img src="https://img.icons8.com/ios-filled/60/000000/machine-learning.png"/> Specializations - Web Stack programming ― React</h1>
 
 <p><img src="https://img.icons8.com/ios-filled/14/000000/user-male-circle.png"/>Wilder Rincon</p>
 
