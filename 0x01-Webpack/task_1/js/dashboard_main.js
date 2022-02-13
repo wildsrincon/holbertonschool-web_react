@@ -24,5 +24,3 @@ $('#click-here').on('click', _.debounce(updateCounter, 300, {
   leading: true,
   trailing: false,
 }));
-
-// 500
