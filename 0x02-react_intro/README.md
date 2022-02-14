@@ -21,7 +21,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Author ✒️
 
-**Wilder Rincon** :computer: :man: 
+**Wilder Rincon** :computer: 
 
 - Github - [wildsrincon](https://github.com/wildsrincon)
 - Twitter - [@wichos80](https://twitter.com/wichos80)
