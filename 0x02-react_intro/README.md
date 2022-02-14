@@ -21,10 +21,8 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Author ✒️
 
-_Developed by_
+**Wilder Rincon** :computer: :man: 
 
-**David De La Hoz** :computer: :man: 
-
-- Github - [daviddlhz](https://github.com/daviddlhz)
-- Twitter - [@DavidDlhz](https://twitter.com/daviddlhz)
-- LinkedIn - [David De La Hoz](https://www.linkedin.com/in/daviddlhz/)
+- Github - [wildsrincon](https://github.com/wildsrincon)
+- Twitter - [@wichos80](https://twitter.com/wichos80)
+- LinkedIn - [Wilder Rincon](https://www.linkedin.com/in/wildsrincon/)
