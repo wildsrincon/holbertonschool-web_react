@@ -21,10 +21,8 @@ How to optimize performance and control which components to render
 
 ## Author ✒️
 
-_Developed by_
+**Wilder Rincon** :computer: :man: 
 
-**Yoyman Castellar** :computer: :man: 
-
-- Github - [ymcastellar](https://github.com/ymcastellar)
-- Twitter - [@CastellarYoyman](https://twitter.com/CastellarYoyman)
-- LinkedIn - [yoyman-castellar](https://www.linkedin.com/in/yoyman-castellar/)
+- Github - [wildsrincon](https://github.com/wildsrincon)
+- Twitter - [@wichos80](https://twitter.com/wichos80)
+- LinkedIn - [Wilder Rincon](https://www.linkedin.com/in/wildsrincon/)
