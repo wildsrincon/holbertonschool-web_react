@@ -22,8 +22,9 @@ how to create small animations within the app
 
 ## Author ✒️
 
-**Wilder Rincon** :computer: :man: 
+**Wilder Rincon** :computer:
 
 - Github - [wildsrincon](https://github.com/wildsrincon)
-- Twitter - [@wichos80](https://twitter.com/wichos80)
+- Twitter - [@wildsrincon](https://twitter.com/wildsrincon)
 - LinkedIn - [Wilder Rincon](https://www.linkedin.com/in/wildsrincon/)
+
