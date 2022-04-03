@@ -30,8 +30,8 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 _Developed by_
 
-**Yoyman Castellar** :computer: :man: 
+**Wilder Rincon** :computer: :man: 
 
-- Github - [ymcastellar](https://github.com/ymcastellar)
-- Twitter - [@CastellarYoyman](https://twitter.com/CastellarYoyman)
-- LinkedIn - [yoyman-castellar](https://www.linkedin.com/in/yoyman-castellar/)
+- Github - [wildsrincon](https://github.com/wildsrincon)
+- Twitter - [@wildsrincon](https://twitter.com/wildsrincon)
+- LinkedIn - [wildsrincon](https://www.linkedin.com/in/wildsrincon/)
